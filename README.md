@@ -24,4 +24,4 @@ The following steps are taken:.
   1) Here we use the `magick` CLI to convert the massive image into its corresponding greyscale.
   2) Then, we use the `split-image` package in pypi to split the image into 800 subimages comprising of the train-test data.
   
- *NOTE:* _Here_
+ **NOTE:** *Here we tend NOT to use python packages like `sk-image` and `PIL` to cobvert to greyscale since the image is way too large for it to process.*
