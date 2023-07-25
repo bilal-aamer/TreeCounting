@@ -1,4 +1,4 @@
-# Cantellat Tree Counting
+# Tree Counting
 
 Counting trees from drone images used to to take many hours of manual work. Now, thanks to AI, it can be achieved in just a few minutes.
 
